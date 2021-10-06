@@ -34,7 +34,7 @@ Temperature data for the months of June and December in Oahu, in order to determ
 ## Summary of Analysis:
 
 
-Reviewing results we can see than temperatures are really better for surfing in month of June and for Icream shop is good weather year around
+Reviewing results we can see that temperatures are really better for surfing in month of June and for Ice cream shop temperatures are good year around
 
 
 
